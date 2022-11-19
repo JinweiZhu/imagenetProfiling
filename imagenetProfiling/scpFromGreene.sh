@@ -1,0 +1,1 @@
+scp -r jz3395@greene-dtn.hpc.nyu.edu:/$HOME/imagenet /$HOME
